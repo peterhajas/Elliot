@@ -8,9 +8,9 @@ by Peter Hajas
 --------------
 
 Why would you call yourself? Well, here are just a few reasons:
-[1] - You are lonely. Very lonely.
-[2] - You like the sound of robot voices (this is the same as [1]).
-[3] - You need an excuse to get back to work.
+- You are lonely. Very lonely.
+- You like the sound of robot voices (this is the same as [1]).
+- You need an excuse to get back to work.
 
 Whatever your reasons may be, Elliot is here to help you!
 
