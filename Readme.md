@@ -8,24 +8,33 @@ by Peter Hajas
 --------------
 
 Why would you call yourself? Well, here are just a few reasons:
-- You are lonely. Very lonely.
-- You like the sound of robot voices (this is the same as [1]).
-- You need an excuse to get back to work.
+
+ - You are lonely. Very lonely.
+ 
+ - You like the sound of robot voices (this is the same as [1]).
+ 
+ - You need an excuse to get back to work.
+
 
 Whatever your reasons may be, Elliot is here to help you!
 
 Elliot is a simple interface to the service provided at fakecall.net. It supports:
+
  - Registering an account with fakecall.net
+
  - Calling your number
+
  - Deleting your account
 
 To use Elliot, just run it with a command. Possible commands are:
+
  - call
+
  - delete
 
 For example:
 
-    `./Elliot.py call`
+`./Elliot.py call`
 
 fakecall.net provides some security for these accounts through a password.
 
